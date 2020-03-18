@@ -1,4 +1,4 @@
-# COVID-19 Documentação Técnica
+# COVID19-FE Documentação Técnica
 
 Este documento contém tudo o que um developer precisa de saber para configurar e correr este software.
 
