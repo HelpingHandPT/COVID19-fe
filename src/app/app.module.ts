@@ -9,6 +9,7 @@ import { AboutPageComponent } from './pages/about-page/about-page.component';
 import { RulesPageComponent } from './pages/rules-page/rules-page.component';
 import { RiskPageComponent } from './pages/risk-page/risk-page.component';
 import { HelperPageComponent } from './pages/helper-page/helper-page.component';
+import { RegisterPageComponent } from './pages/register-page/register-page.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { HelperPageComponent } from './pages/helper-page/helper-page.component';
     AboutPageComponent,
     RulesPageComponent,
     RiskPageComponent,
-    HelperPageComponent
+    HelperPageComponent,
+    RegisterPageComponent
   ],
   imports: [
     BrowserModule,
