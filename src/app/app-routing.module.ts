@@ -6,6 +6,7 @@ import { RulesPageComponent } from './pages/rules-page/rules-page.component';
 import { RiskPageComponent } from './pages/risk-page/risk-page.component';
 import { HelperPageComponent } from './pages/helper-page/helper-page.component';
 import { RegisterPageComponent } from './pages/register-page/register-page.component';
+import { CreateProfilePageComponent } from './pages/create-profile-page/create-profile-page.component';
 
 
 const routes: Routes = [
@@ -16,6 +17,7 @@ const routes: Routes = [
   { path: 'risk', component: RiskPageComponent },
   { path: 'helper', component: HelperPageComponent },
   { path: 'register', component: RegisterPageComponent },
+  { path: 'create-profile', component: CreateProfilePageComponent },
 ];
 
 @NgModule({
